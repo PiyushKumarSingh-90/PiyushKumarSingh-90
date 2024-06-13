@@ -23,30 +23,30 @@
 <p>😎 Student Ambassador at LetsUpgrade</p>
 <h3 align="center">📱Connect with me:</h3>
 
- <div style="text-align: center;">
+ <div align="center">
     <table>
         <tr>
-            <td style="padding: 0 10px;">
+            <td>
                 <a href="https://www.linkedin.com/in/piyush-kumar-singh-2a45132a3/" target="blank">
                     <img src="https://github.com/PiyushKumarSingh-90/gif/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(3).gif" height="60" width="60">
                 </a>
             </td>
-            <td style="padding: 0 10px;">
+            <td >
                 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=2023.piyushs@isu.ac.in" target="_blank">
                     <img align="center" src="https://github.com/PiyushKumarSingh-90/gif/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(2).gif" alt="gmail logo" height="50" width="50">
                 </a>
             </td>
-            <td style="padding: 0 10px;">
+            <td >
                 <a href="https://x.com/piyush_tec34082" target="blank">
                     <img align="center" src="https://github.com/PiyushKumarSingh-90/gif/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(4).gif" alt="Piyush_Singh" height="50" width="50">
                 </a>
             </td>
-            <td style="padding: 0 10px;">
+            <td >
                 <a href="https://www.instagram.com/kumarpiyush_01/" target="blank">
                     <img align="center" src="https://github.com/PiyushKumarSingh-90/gif/blob/main/Instagram%20(1).gif" alt="Piyush_Singh" height="50" width="50">
                 </a>
             </td>
-            <td style="padding: 0 10px;">
+            <td>
                 <a href="https://leetcode.com/u/kumarpiyush_01/" target="blank">
                     <img align="center" src="https://github.com/PiyushKumarSingh-90/gif/blob/main/Instagram%20(2).gif" alt="Piyush_Singh" height="50" width="50">
                 </a>
@@ -82,7 +82,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshyaDuhoonISU&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" />
 </div>
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LakshyaDuhoonISU&theme=aura" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LakshyaDuhoonISU&theme=aura" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LakshyaDuhoonISU&theme=aura" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LakshyaDuhoonISU&theme=aura" />
@@ -91,20 +90,4 @@
 <p>
     <div align="center">
     <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-    <h2>🤖 My Projects</h2>
-    <p>1.Student Gradebook</p>
-    <p>•An app for teachers to manage student grades by creation of report cards and creation of PTM meetings and messaging parents regarding their wards' details.</p>
-    <p>•Sends an email for PTM meetings and report cards to the respective parents and sends email for holiday notifications to parents and children.</p>
-    <p>•A calendar of holidays is also available for everyone to see and only class teacher can edit the calendar. </p>
-    <p>•Parents can see report cards of their child and PTM meetings scheduled.</p>
-    <p>•Students can see their report cards and see PTM meetings which are scheduled.</p>
-    <p>•Appsheet link- <a href="https://www.appsheet.com/start/68d6c6c1-9ae7-4db1-9d5c-88a21f591fb0" target="_blank">Student Gradebook</a></p>
-</p>
-<p>
-    <h2>✍️ Random Dev Quote</h2>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/></p></div>
-<!-- <p>
-    <div align="center">
-    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-    <h2> 😂 Random Dev Meme</h2>
-    <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/></p></div> -->
+   
