@@ -26,12 +26,11 @@
     
 
 <a href="https://www.linkedin.com/in/piyush-kumar-singh-2a45132a3/" target="blank" >
-<img src="https://github.com/PiyushKumarSingh-90/gif/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" height="50" width="75">
+<img src="https://github.com/PiyushKumarSingh-90/gif/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(3).gif" height="60" width="50">
 </a>
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=2023.piyushs@isu.ac.in
-" target="_blank">
-    <img align="center" src="https://cdnl.iconscout.com/lottie/free/preview/free-gmail-4180800-3463513.mp4" height="31" alt="gmail logo"  />
+<br>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=2023.piyushs@isu.ac.in" target="_blank">
+    <img align="center" src="https://github.com/PiyushKumarSingh-90/gif/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(2).gif" alt="gmail logo"  height="50" width="50">
 </a>
 
 <a href="https://x.com/piyush_tec34082" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Piyush_Singh" height="30" width="40" />
