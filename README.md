@@ -14,9 +14,6 @@
 <p>🔭 I am passionate about AI/ML and learning new technologies</p>
 
 
-![372102050_LINKEDIN_ICON_TRANSPARENT_1080](https://github.com/PiyushKumarSingh-90/PiyushKumarSingh-90/assets/142776115/aa0c11b2-482a-46f7-8f22-4c61b43765ce)
-
-
 
 
 <p>🌱 I’m currently learning React and other front-end related languages</p>
@@ -27,11 +24,9 @@
 <h3 align="center">📱Connect with me:</h3>
 <p align="center">
     
-<a href="https://www.linkedin.com/in/piyush-kumar-singh-2a45132a3/" target="blank" style="radies:50px,50px">
 
-
-
-<img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="Piyush_Singh" height="30" width="40"/>
+<a href="https://www.linkedin.com/in/piyush-kumar-singh-2a45132a3/" target="blank" >
+<img src="https://github.com/PiyushKumarSingh-90/gif/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" height="50" width="75">
 </a>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=2023.piyushs@isu.ac.in
