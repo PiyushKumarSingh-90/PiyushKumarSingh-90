@@ -22,31 +22,31 @@
 
 <p>😎 Student Ambassador at LetsUpgrade</p>
 <h3 align="center">📱Connect with me:</h3>
-<p align="center">
-  <div>
+
+ <div style="text-align: center;">
     <table>
         <tr>
-            <td>
+            <td style="padding: 0 10px;">
                 <a href="https://www.linkedin.com/in/piyush-kumar-singh-2a45132a3/" target="blank">
                     <img src="https://github.com/PiyushKumarSingh-90/gif/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(3).gif" height="60" width="60">
                 </a>
             </td>
-            <td>
+            <td style="padding: 0 10px;">
                 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=2023.piyushs@isu.ac.in" target="_blank">
                     <img align="center" src="https://github.com/PiyushKumarSingh-90/gif/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(2).gif" alt="gmail logo" height="50" width="50">
                 </a>
             </td>
-            <td>
+            <td style="padding: 0 10px;">
                 <a href="https://x.com/piyush_tec34082" target="blank">
                     <img align="center" src="https://github.com/PiyushKumarSingh-90/gif/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(4).gif" alt="Piyush_Singh" height="50" width="50">
                 </a>
             </td>
-            <td>
+            <td style="padding: 0 10px;">
                 <a href="https://www.instagram.com/kumarpiyush_01/" target="blank">
                     <img align="center" src="https://github.com/PiyushKumarSingh-90/gif/blob/main/Instagram%20(1).gif" alt="Piyush_Singh" height="50" width="50">
                 </a>
             </td>
-            <td>
+            <td style="padding: 0 10px;">
                 <a href="https://leetcode.com/u/kumarpiyush_01/" target="blank">
                     <img align="center" src="https://github.com/PiyushKumarSingh-90/gif/blob/main/Instagram%20(2).gif" alt="Piyush_Singh" height="50" width="50">
                 </a>
@@ -55,7 +55,6 @@
     </table>
 </div>
 
-</p>
 
 <h3 align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧑🏻‍💻Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
