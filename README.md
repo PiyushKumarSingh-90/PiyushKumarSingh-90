@@ -10,7 +10,7 @@
 </div>
 <div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<img src="[https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif](https://media1.giphy.com/media/JqmupuTVZYaQX5s094/200.webp?cid=ecf05e47uig42ewlyr3jvraflkgq9a9q3zu7dxog5orsg17s&ep=v1_gifs_search&rid=200.webp&ct=g)" alt="coding gif" height="45%" width="45%" align="right">
+<img src="https://i.giphy.com/JqmupuTVZYaQX5s094.webp" height="45%" width="45%" align="right">
 <p>🔭 I am passionate about AI/ML and learning new technologies</p>
 
 <p>🌱 I’m currently learning React and other front-end related languages</p>
