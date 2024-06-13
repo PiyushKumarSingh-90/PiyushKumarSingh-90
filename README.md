@@ -13,6 +13,12 @@
 <img src="https://i.giphy.com/JqmupuTVZYaQX5s094.webp" height="45%" width="45%" align="right">
 <p>🔭 I am passionate about AI/ML and learning new technologies</p>
 
+
+![372102050_LINKEDIN_ICON_TRANSPARENT_1080](https://github.com/PiyushKumarSingh-90/PiyushKumarSingh-90/assets/142776115/aa0c11b2-482a-46f7-8f22-4c61b43765ce)
+
+
+
+
 <p>🌱 I’m currently learning React and other front-end related languages</p>
 
 <p>👨‍💻 I am a first year B.Tech student</p>
@@ -22,6 +28,9 @@
 <p align="center">
     
 <a href="https://www.linkedin.com/in/piyush-kumar-singh-2a45132a3/" target="blank" style="radies:50px,50px">
+
+
+
 <img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="Piyush_Singh" height="30" width="40"/>
 </a>
 
