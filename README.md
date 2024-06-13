@@ -21,7 +21,8 @@
 <h3 align="center">📱Connect with me:</h3>
 <p align="center">
     
-<a href="https://www.linkedin.com/in/piyush-kumar-singh-2a45132a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshya-duhoon-3144b3283" height="30" width="40"/>
+<a href="https://www.linkedin.com/in/piyush-kumar-singh-2a45132a3/" target="blank">
+<img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="Piyush_Singh" height="30" width="40"/>
 </a>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=2023.piyushs@isu.ac.in
@@ -29,10 +30,14 @@
     <img align="center" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="gmail logo"  />
 </a>
 
-<a href="https://twitter.com/lakshyaduhoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lakshyaduhoon" height="30" width="40" />
+<a href="https://x.com/piyush_tec34082" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Piyush_Singh" height="30" width="40" />
 </a>
 
-<a href="https://instagram.com/lakshya_duhoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakshya_duhoon" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kumarpiyush_01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Piyush_Singh" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/u/kumarpiyush_01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Piyush_Singh" height="30" width="40" />
+</a>
 
 </p>
 
