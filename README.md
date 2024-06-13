@@ -26,20 +26,22 @@
     
 
 <a href="https://www.linkedin.com/in/piyush-kumar-singh-2a45132a3/" target="blank" >
-<img src="https://github.com/PiyushKumarSingh-90/gif/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(3).gif" height="60" width="50">
+<img src="https://github.com/PiyushKumarSingh-90/gif/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(3).gif" height="60" width="60">
 </a>
+
 <br>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=2023.piyushs@isu.ac.in" target="_blank">
-    <img align="center" src="https://github.com/PiyushKumarSingh-90/gif/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(2).gif" alt="gmail logo"  height="50" width="50">
+<img align="center" src="https://github.com/PiyushKumarSingh-90/gif/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(2).gif" alt="gmail logo"  height="50" width="50">
 </a>
 
-<a href="https://x.com/piyush_tec34082" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Piyush_Singh" height="30" width="40" />
+<a href="https://x.com/piyush_tec34082" target="blank">
+<img align="center" src="https://github.com/PiyushKumarSingh-90/gif/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(4).gif" alt="Piyush_Singh" height="50" width="50" />
 </a>
 
-<a href="https://www.instagram.com/kumarpiyush_01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Piyush_Singh" height="30" width="40" />
+<a href="https://www.instagram.com/kumarpiyush_01/" target="blank"><img align="center" src="https://github.com/PiyushKumarSingh-90/gif/blob/main/Instagram%20(1).gif" alt="Piyush_Singh" height="50" width="50" />
 </a>
 
-<a href="https://leetcode.com/u/kumarpiyush_01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Piyush_Singh" height="30" width="40" />
+<a href="https://leetcode.com/u/kumarpiyush_01/" target="blank"><img align="center" src="hhttps://github.com/PiyushKumarSingh-90/gif/blob/main/Instagram%20(2).gif" alt="Piyush_Singh" height="30" width="40" />
 </a>
 
 </p>
