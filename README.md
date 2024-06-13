@@ -21,7 +21,7 @@
 <h3 align="center">📱Connect with me:</h3>
 <p align="center">
     
-<a href="https://img.icons8.com/?size=100&id=kFJzAZryEscq&format=png&color=000000" target="blank">
+<a href="https://www.linkedin.com/in/piyush-kumar-singh-2a45132a3/" target="blank">
 <img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="Piyush_Singh" height="30" width="40"/>
 </a>
 
