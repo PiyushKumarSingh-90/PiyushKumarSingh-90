@@ -31,7 +31,7 @@
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=2023.piyushs@isu.ac.in
 " target="_blank">
-    <img align="center" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="gmail logo"  />
+    <img align="center" src="https://cdnl.iconscout.com/lottie/free/preview/free-gmail-4180800-3463513.mp4" height="31" alt="gmail logo"  />
 </a>
 
 <a href="https://x.com/piyush_tec34082" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Piyush_Singh" height="30" width="40" />
