@@ -21,7 +21,7 @@
 <h3 align="center">📱Connect with me:</h3>
 <p align="center">
     
-<a href="https://icons8.com/icon/kFJzAZryEscq/linkedin-circled" target="blank">
+<a href="https://img.icons8.com/?size=100&id=kFJzAZryEscq&format=png&color=000000" target="blank">
 <img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="Piyush_Singh" height="30" width="40"/>
 </a>
 
