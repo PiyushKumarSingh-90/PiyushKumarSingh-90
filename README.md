@@ -5,7 +5,20 @@
 <h1 align="center">Hi, I'm Piyush Kumar Singh</h1>
 <h3 align="center">A Passionate Computer Science Student and a coding enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshyaduhoonisu&label=Profile%20views&color=0e75b6&style=flat" alt="lakshyaduhoonisu" /> </p>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=lakshyaduhoonisu&label=Profile%20views&color=0e75b6&style=flat" alt="lakshyaduhoonisu" /> 
+</p>
+
+
+
+
+
+
+
+
+
+
+
 
 </div>
 <div>
