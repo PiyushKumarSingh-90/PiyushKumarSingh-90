@@ -62,12 +62,12 @@
   
   <tr>
     <td>
-        <img src="https://github.com/PiyushKumarSingh-90/gif/blob/main/Instagram%20(9).gif" width="50" height="50"/>
+        <img src="https://i.pinimg.com/564x/71/5b/59/715b59c8c7545d9dafb1a04111edde40.jpg" width="50" height="50"/>
     </td>
   
 
  <td>
-           <img src="https://github.com/PiyushKumarSingh-90/gif/blob/main/Instagram%20(14).gif" width="50" height="50"/>
+           <img src="https://i.pinimg.com/564x/34/26/1b/34261bb9ce92735c4c7df5281a067c14.jpg" width="50" height="50"/>
 </td>
   
 
