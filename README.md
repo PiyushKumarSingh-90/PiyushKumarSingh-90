@@ -62,29 +62,21 @@
   
   <tr>
     <td>
-        <img src="https://i.pinimg.com/564x/71/5b/59/715b59c8c7545d9dafb1a04111edde40.jpg" width="50" height="50"/>
+        <img src="https://i.pinimg.com/564x/71/5b/59/715b59c8c7545d9dafb1a04111edde40.jpg" width="70" height="70"/>
     </td>
   
 
  <td>
-           <img src="https://i.pinimg.com/564x/34/26/1b/34261bb9ce92735c4c7df5281a067c14.jpg" width="50" height="50"/>
+           <img src="https://ih0.redbubble.net/image.1075465556.1060/raf,360x360,075,t,fafafa:ca443f4786.jpg" width="70" height="70"/>
 </td>
   
 
 <td>
-    <img src="https://github.com/PiyushKumarSingh-90/gif/blob/main/Instagram%20(7).gif" width="50" height="50"/>
+    <img src="https://i.pinimg.com/736x/b5/1b/78/b51b78ecc9e5711274931774e433b5e6.jpg" width="80" height="80"/>
 </td>
    
-  
- 
 <td>
-    <img src="https://github.com/PiyushKumarSingh-90/gif/blob/main/Instagram%20(4).gif" width="50" height="50"/>
-</td>
-    
-  
-  
-<td>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70" height="70"/>
 </td>
     
   
@@ -106,7 +98,7 @@
  <td><img src="https://github.com/PiyushKumarSingh-90/gif/blob/main/Instagram%20(15).gif" width="50" height="50"/></td>
    
   
- <td><img src="https://github.com/PiyushKumarSingh-90/gif/blob/main/Instagram%20(6).gif" width="50" height="50"/></td>
+ <td><img src="https://i.pinimg.com/564x/0d/30/28/0d30280f8d8a8dd47faf3e18b7cfe1d9.jpg" width="50" height="50"/></td>
     
   
 <td><img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png" width="50" height="50"/></td>
