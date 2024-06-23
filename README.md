@@ -57,54 +57,49 @@
 <h3 align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧑🏻‍💻Languages and Tools:</h3>
 <p align="left"> 
 
- <div align="center">
+<div>
    <table>
   
   <tr>
     <td>
-        <img src="https://i.pinimg.com/564x/71/5b/59/715b59c8c7545d9dafb1a04111edde40.jpg" width="70" height="70"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="55" height="55"/>
     </td>
   
 
  <td>
-           <img src="https://ih0.redbubble.net/image.1075465556.1060/raf,360x360,075,t,fafafa:ca443f4786.jpg" width="70" height="70"/>
+           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" width="55" height="55"/>
 </td>
   
 
 <td>
-    <img src="https://i.pinimg.com/736x/b5/1b/78/b51b78ecc9e5711274931774e433b5e6.jpg" width="80" height="80"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" width="55" height="55"/>
 </td>
    
 <td>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70" height="70"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png" width="55" height="55"/>
 </td>
     
   
  
  <td>
-     <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_300,h_300/https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" width="50" height="50"/>
+     <img src="https://cdn.worldvectorlogo.com/logos/scratch-cat.svg" width="55" height="55"/>
  </td>
     
  
-  
- <td>
-     <img src="https://github.com/PiyushKumarSingh-90/gif/blob/main/Instagram%20(5).gif" width="50" height="50"/>
- </td>
-    
  
- <td><img src="https://github.com/PiyushKumarSingh-90/gif/blob/main/Instagram%20(12).gif" width="50" height="50"/></td>
+ <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"  width="55" height="55"/></td>
    
 
- <td><img src="https://github.com/PiyushKumarSingh-90/gif/blob/main/Instagram%20(15).gif" width="50" height="50"/></td>
+ <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png"  width="45" height="55"/></td>
    
   
- <td><img src="https://i.pinimg.com/564x/0d/30/28/0d30280f8d8a8dd47faf3e18b7cfe1d9.jpg" width="50" height="50"/></td>
+ <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/1200px-Javascript_badge.svg.png"  width="55" height="55"/></td>
     
   
-<td><img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png" width="50" height="50"/></td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"  width="45" height="40"/></td>
     
  
- <td><img src="https://github.com/PiyushKumarSingh-90/gif/blob/main/Instagram%20(3).gif" width="50" height="50"/></td>
+ <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png"  width="30" height="40"/></td>
     
   </tr>
 </table>
