@@ -41,7 +41,7 @@
             </td>
             <td >
                 <a href="https://www.instagram.com/kumarpiyush_01/" target="blank">
-                    <img align="center" src="https://github.com/PiyushKumarSingh-90/gif/blob/main/Instagram%20(1).gif" alt="Piyush_Singh" height="50" width="50">
+                    <img align="center" src="[https://github.com/PiyushKumarSingh-90/gif/blob/main/Instagram%20(1).gif](https://www.instagram.com/p.singh__21/)" alt="Piyush_Singh" height="50" width="50">
                 </a>
             </td>
             <td>
