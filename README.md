@@ -45,7 +45,7 @@
                 </a>
             </td>
             <td>
-                <a href="https://leetcode.com/u/kumarpiyush_0" target="blank">
+                <a href="" target="blank">
                     <img align="center" src="https://github.com/PiyushKumarSingh-90/gif/blob/main/Instagram%20(2).gif" alt="Piyush_Singh" height="50" width="50">
                 </a>
             </td>
