@@ -20,7 +20,6 @@
 
 
 
-
 <p>🌱 I’m currently learning React and other front-end related languages</p>
 
 <p>👨‍💻 I am a Second year B.Tech student</p>
