@@ -12,7 +12,6 @@
 
 
 
-
 <h1 align="center">Hi, I'm Piyush Kumar Singh</h1>
 <h3 align="center">A Passionate Computer Science Student and a coding enthusiast</h3>
 
