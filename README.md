@@ -12,13 +12,13 @@
 <div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20%" width="100%">
     
-<img src="https://i.giphy.com/JqmupuTVZYaQX5s094.webp" height="45%" width="45%" align="right">
-    
-<p>🔭 I am passionate about AI/ML and learning new technologies</p>
+<img src="https://i.giphy.com/JqmupuTVZYaQX5s094.webp" width="200" align="right" />
 
+<p>🛠️ I am passionate about AI/ML and learning new technologies</p>
 <p>🌱 I’m currently learning React and other front-end related languages</p>
-
 <p>👨‍💻 I am a Second year B.Tech student</p>
+<p>😎 Student Ambassador at LetsUpgrade</p>
+
 
 <p>😎 Student Ambassador at LetsUpgrade</p>
 <h3 align="center">📱Connect with me:</h3>
