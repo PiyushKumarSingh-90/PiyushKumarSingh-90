@@ -11,19 +11,16 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<table>
-  <tr>
-    <td valign="top" style="border: none;">
-      <p>🛠️ I am passionate about AI/ML and learning new technologies</p>
-      <p>🌱 I’m currently learning React and other front-end related languages</p>
-      <p>👨‍💻 I am a Second year B.Tech student</p>
-      <p>😎 Student Ambassador at LetsUpgrade</p>
-    </td>
-    <td style="border: none;">
-      <img src="https://i.giphy.com/JqmupuTVZYaQX5s094.webp" width="250" alt="Monkey Coding GIF" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div>
+    <p>🔭 I am passionate about AI/ML and learning new technologies</p>
+    <p>🌱 I’m currently learning React and other front-end related languages</p>
+    <p>👨‍💻 I am a Second year B.Tech student</p>
+    <p>😎 Student Ambassador at LetsUpgrade</p>
+  </div>
+  <img src="https://i.giphy.com/JqmupuTVZYaQX5s094.webp" width="250" alt="Monkey Coding GIF" />
+</div>
+
 
 
 <h3 align="center">📱Connect with me:</h3>
