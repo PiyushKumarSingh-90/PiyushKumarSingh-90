@@ -12,7 +12,7 @@
 <div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20%" width="100%">
     
-<img src="https://i.giphy.com/JqmupuTVZYaQX5s094.webp" width="200" align="right" />
+<img src="https://i.giphy.com/JqmupuTVZYaQX5s094.webp" width="400"  height ="400" align="right" />
 
 <p>🛠️ I am passionate about AI/ML and learning new technologies</p>
 <p>🌱 I’m currently learning React and other front-end related languages</p>
