@@ -11,17 +11,19 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<p>🔭 I am passionate about AI/ML and learning new technologies</p>
-
-<p>🌱 I’m currently learning React and other front-end related languages</p>
-
-<p>👨‍💻 I am a Second year B.Tech student</p>
-
-<p>😎 Student Ambassador at LetsUpgrade</p>
-
-<p align="right">
-  <img src="https://i.giphy.com/JqmupuTVZYaQX5s094.webp" width="300" />
-</p>
+<table>
+  <tr>
+    <td valign="top">
+      <p>🔭 I am passionate about AI/ML and learning new technologies</p>
+      <p>🌱 I’m currently learning React and other front-end related languages</p>
+      <p>👨‍💻 I am a Second year B.Tech student</p>
+      <p>😎 Student Ambassador at LetsUpgrade</p>
+    </td>
+    <td>
+      <img src="https://i.giphy.com/JqmupuTVZYaQX5s094.webp" width="250" alt="Monkey Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">📱Connect with me:</h3>
 
