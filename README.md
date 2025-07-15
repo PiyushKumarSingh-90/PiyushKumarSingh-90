@@ -5,12 +5,8 @@
 <h1 align="center">Hi, I'm Piyush Kumar Singh</h1>
 <h3 align="center">A Passionate Computer Science Student and a coding enthusiast</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=lakshyaduhoonisu&label=Profile%20views&color=0e75b6&style=flat" alt="lakshyaduhoonisu" /> 
-</p>
-
-<!-- Replaced the rainbow gif with a cleaner divider -->
-<hr style="border: 0; height: 4px; background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); margin: 0; padding: 0;" />
+<!-- 🌈 Rainbow line (replaces your GIF) -->
+<hr style="border: 0; height: 4px; background: linear-gradient(to right, red, orange, yellow, green, cyan, blue, violet); margin: 0; padding: 0;" />
 
 <!-- Monkey Gif -->
 <img src="https://i.giphy.com/JqmupuTVZYaQX5s094.webp" width="300" align="right" />
