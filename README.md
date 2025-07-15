@@ -6,9 +6,6 @@
 <h3 align="center">A Passionate Computer Science Student and a coding enthusiast</h3>
 
 <!-- 🌈 Rainbow line (replaces your GIF) -->
-<p align="center" style="margin: 0; padding: 0; line-height: 0;">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" alt="rainbow divider" style="display: block; margin: 0; padding: 0;" />
-</p>
 
 
 
