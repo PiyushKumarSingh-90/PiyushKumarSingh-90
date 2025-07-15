@@ -7,12 +7,10 @@
 
 <!-- 🌈 Rainbow line (replaces your GIF) -->
 <table width="100%" cellspacing="0" cellpadding="0" style="margin: 0; padding: 0;">
-  <tr>
-    <td style="line-height: 0; padding: 0;">
-      <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" alt="rainbow divider" />
-    </td>
-  </tr>
-</table>
+<div style="padding: 0; margin: 0; line-height: 0;">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" alt="rainbow divider" />
+</div>
+
 
 
 
