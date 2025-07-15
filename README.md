@@ -10,7 +10,7 @@
 </p>
 </div>
 <div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="5%" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" style="margin: 0; padding: 0;" />
     
 <img src="https://i.giphy.com/JqmupuTVZYaQX5s094.webp" width="350"  height ="500" align="right" />
 
