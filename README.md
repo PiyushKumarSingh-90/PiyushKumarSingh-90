@@ -6,10 +6,9 @@
 <h3 align="center">A Passionate Computer Science Student and a coding enthusiast</h3>
 
 <!-- 🌈 Rainbow line (replaces your GIF) -->
-
-<div style="line-height: 0">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" alt="rainbow divider" />
-</div>
+<p align="center" style="margin: 0; padding: 0;">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="4px" alt="rainbow divider" />
+</p>
 
 <!-- Monkey Gif -->
 <img src="https://i.giphy.com/JqmupuTVZYaQX5s094.webp" width="300" align="right" />
