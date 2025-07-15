@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Piyush Kumar Singh</h1>
 <h3 align="center">A Passionate Computer Science Student and a coding enthusiast</h3>
 
-<!-- 🌈 Rainbow line (replaces your GIF) -->
+<!-- 🌈 Rainbow line (replac
 <!-- Monkey Gif -->
 <img src="https://i.giphy.com/JqmupuTVZYaQX5s094.webp" width="300" align="right" />
 
