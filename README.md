@@ -8,6 +8,16 @@
 <!-- Monkey Gif -->
 <img src="https://i.giphy.com/JqmupuTVZYaQX5s094.webp" width="300" align="right" />
 
+
+
+
+
+
+
+
+
+
+
 <p>🛠️ I am passionate about AI/ML and learning new technologies</p>
 <p>🌱 I’m currently learning React and other front-end related languages</p>
 <p>👨‍💻 I am a Second year B.Tech student</p>
